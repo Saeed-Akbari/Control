@@ -1,4 +1,4 @@
- # Backstepping controller for a given system
+ # Backstepping controller for the given system below
  
  A part of the calculation is hand-written. The whole calculation has been done in Mathematica.
  
