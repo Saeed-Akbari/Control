@@ -4,4 +4,10 @@ The regressorCalculation.nb file creates Y1 and Y2 formula using Mathematica sof
 
 ![alt text](https://github.com/Saeed-Akbari/Control/blob/media/images/p2q1.png)
 
-![PDF](https://github.com/Saeed-Akbari/Control/blob/media/images/BackStepping/Backstepping.pdf)
+![alt text](https://github.com/Saeed-Akbari/Control/blob/media/images/p2qdot1.png)
+
+![alt text](https://github.com/Saeed-Akbari/Control/blob/media/images/p2s1.png)
+
+![alt text](https://github.com/Saeed-Akbari/Control/blob/media/images/p2theta1.png)
+
+![PDF](https://github.com/Saeed-Akbari/Control/blob/media/images/A two-link planar direct-drive robot manipulator.pdf)
