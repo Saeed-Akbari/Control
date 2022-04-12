@@ -1,4 +1,4 @@
-# RLC
+# Design of adaptive controller for a RLC circuit
 
 
 ![alt text](https://github.com/Saeed-Akbari/Control/blob/media/images/p1q2.png)
